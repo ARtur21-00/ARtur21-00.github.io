@@ -1,0 +1,63 @@
+.roboto-regular-italic {
+    font-family: "Roboto", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .roboto-medium-italic {
+    font-family: "Roboto", serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  p{
+    font-family: "Roboto", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  h1{
+    font-family: "Roboto", serif;
+    font-weight: 500;
+    font-style: italic;
+    text-align: center;
+    
+}
+h4{
+  font-family: "Roboto", serif;
+    font-weight: 400;
+    font-style: italic;
+    text-align: center
+}
+body{
+    margin: 20px;
+    padding: auto;
+    background-image: url(https://img.freepik.com/free-vector/paper-style-white-monochrome-background_52683-66443.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.navbar-brand{
+  text-align: right;
+}
+ .tupe1{
+  width: 500px;
+  height: 400px;
+  text-align: left;
+ }
+ .tupe2{
+  width: 500px;
+  height: 400px;
+  text-align: left;
+
+ }
+ .footer{
+  color: rgb(22, 219, 48);
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+ }
+.conteiner{
+ margin: 10px;
+  padding: 5px;
+}
